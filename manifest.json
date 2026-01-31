@@ -1,0 +1,17 @@
+
+{
+  "short_name": "HabitKit",
+  "name": "HabitKit: Control de Hábitos",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3593/3593452.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}

@@ -1,0 +1,8 @@
+
+{
+  "name": "HabitKit - Monitor de Hábitos",
+  "description": "Una aplicación premium para el seguimiento de hábitos diarios con visualizaciones de cuadrícula, gráficos de progreso y diario de reflexión personal.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
