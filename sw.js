@@ -1,6 +1,6 @@
 
 const CACHE_NAME = 'habitkit-v1';
-const assets = ['./', './index.html'];
+const assets = ['/'];
 
 self.addEventListener('install', event => {
   event.waitUntil(
